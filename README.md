@@ -6,10 +6,10 @@ I added accessibility options for images by including alt info and describing th
 I ensured all navigation links worked correctly.
 I eliminated extra code within the CSS style sheet and the HTML page.
 
-[horiseon-site]: (https://dannyramirezgd.github.io/Challenge-1/)
+[horiseon-site](https://dannyramirezgd.github.io/Challenge-1/)
 
-![screenshot](./assets/images/Capture-1.png?raw=true "Screenshot of site")
-![screenshot](./assets/images/Capture-2.png?raw=true "Screenshot of site")
-![screenshot](./assets/images/Capture-3.png?raw=true "Screenshot of site")
+![screenshot](./assets/images/screenshot-1.png?raw=true "Screenshot of site")
+![screenshot](./assets/images/screenshot-2.png?raw=true "Screenshot of site")
+![screenshot](./assets/images/screenshot-3.png?raw=true "Screenshot of site")
 
 
