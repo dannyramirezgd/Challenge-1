@@ -1,5 +1,6 @@
 # Code Refactor Starter Code
-Replaced all div and other non semantic labels to more appropriate HTML Semantic labels and also changed the CSS selectors to match the new semantic elements
-Add accessibility options for images by adding alt info 
-Ensured all navigation links worked correctly
-Also cleaned up some extra code in the CSS style sheet
+I replaced all the div and other non semantic labels with more approripate HTML Semantic labels. 
+I changed the CSS selects to match the new semantic elements. 
+I added accessibility options for images by including alt info and describing the images. 
+I ensured all navigation links worked correctly. 
+I eliminated extra code within the CSS style sheet and the HTML page. 
