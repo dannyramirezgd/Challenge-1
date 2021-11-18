@@ -5,8 +5,11 @@ I changed the CSS selects to match the new semantic elements.
 I added accessibility options for images by including alt info and describing the images.
 I ensured all navigation links worked correctly.
 I eliminated extra code within the CSS style sheet and the HTML page.
-![Mockup-screenshot](./assets/images/Capture-1?raw=true "Screenshot of Mockup")
-![Mockup-screenshot](./assets/images/Capture-2?raw=true "Screenshot of Mockup")
-![Mockup-screenshot](./assets/images/Capture-3?raw=true "Screenshot of Mockup")
 
-[horiseon-site]: (https://dannyramirezgd.github.io/Challenge-1/)
+[horiseon-site](https://dannyramirezgd.github.io/Challenge-1/)
+
+![Mockup-screenshot](./assets/images/Capture-1.png?raw=true "Screenshot of Mockup")
+![Mockup-screenshot](./assets/images/Capture-2.png?raw=true "Screenshot of Mockup")
+![Mockup-screenshot](./assets/images/Capture-3.png?raw=true "Screenshot of Mockup")
+
+
