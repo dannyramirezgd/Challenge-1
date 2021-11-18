@@ -8,7 +8,7 @@ I eliminated extra code within the CSS style sheet and the HTML page.
 
 [horiseon-site](https://dannyramirezgd.github.io/Challenge-1/)
 
-![screenshot](./assets/images/01-html-css-git-homework-demo.png?raw=true "Screenshot of site")
+![screenshot](./assets/images/brand-awareness.png?raw=true "Screenshot of site")
 
 
 
